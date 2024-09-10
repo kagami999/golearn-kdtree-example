@@ -29,5 +29,4 @@ func main() {
 		return
 	}
 	fmt.Print(in) // index: [0] => {2.1, 3.5}
-
 }
